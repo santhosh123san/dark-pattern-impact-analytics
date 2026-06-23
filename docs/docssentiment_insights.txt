@@ -1,0 +1,9 @@
+Sentiment Analysis Insights
+
+Applications with higher positive reviews achieved higher trust scores.
+
+Applications with more negative reviews achieved lower trust scores.
+
+Trust score reflects overall user satisfaction and reliability.
+
+Positive review volume strongly influences trust score ranking.
