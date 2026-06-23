@@ -1,0 +1,34 @@
+Review Percentage Analysis
+
+Rating 1:
+22.17%
+
+Rating 2:
+2.83%
+
+Rating 3:
+4.17%
+
+Rating 4:
+9.00%
+
+Rating 5:
+61.83%
+
+Observation:
+
+The majority of reviews (61.83%) are rated 5 stars.
+
+Only 25.00% of reviews are rated 1 or 2 stars.
+
+Positive reviews significantly outweigh negative reviews.
+
+Business Impact:
+
+The applications demonstrate strong overall customer satisfaction.
+
+A high percentage of positive reviews contributes to stronger trust scores and improved platform credibility.
+
+Dashboard Relevance:
+
+These percentages can be displayed as charts and KPI metrics to visualize user sentiment distribution.
