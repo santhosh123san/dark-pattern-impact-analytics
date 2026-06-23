@@ -1,0 +1,16 @@
+Trust Score Analysis
+
+Highest Trust Score App:
+app_id 6
+
+Lowest Trust Score App:
+app_id 1
+
+Observation:
+Applications with higher ratings and more positive reviews achieved higher trust scores.
+
+Business Impact:
+Trust Score can be used to compare application reliability and user satisfaction.
+
+Future Scope:
+Trust Score can be enhanced using sentiment analysis and dark pattern penalties.
