@@ -1,0 +1,19 @@
+Dashboard Metrics
+
+Total Applications:
+6
+
+Total Reviews:
+600
+
+Overall Average Rating:
+3.86
+
+Total Positive Reviews:
+425
+
+Total Negative Reviews:
+150
+
+Purpose:
+These metrics will be displayed as KPI cards in the project dashboard.
