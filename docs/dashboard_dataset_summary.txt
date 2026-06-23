@@ -1,0 +1,45 @@
+Dashboard Dataset Summary
+
+Applications Analyzed:
+6
+
+Total Reviews:
+600
+
+Metrics Included:
+
+- Average Rating
+- Total Reviews
+- Negative Reviews
+- Positive Reviews
+- Trust Score
+
+Application Summary:
+
+App 1
+Average Rating: 2.90
+Trust Score: 42.00
+
+App 2
+Average Rating: 3.95
+Trust Score: 83.20
+
+App 3
+Average Rating: 3.96
+Trust Score: 81.50
+
+App 4
+Average Rating: 3.85
+Trust Score: 78.90
+
+App 5
+Average Rating: 3.84
+Trust Score: 79.20
+
+App 6
+Average Rating: 4.63
+Trust Score: 107.80
+
+Purpose:
+
+This dataset will serve as the primary data source for dashboard KPIs, charts, trust score visualizations and application comparisons.
