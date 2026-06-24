@@ -1,0 +1,27 @@
+Business Insights Dashboard
+
+Week:
+Week 3 Day 4
+
+Page Created:
+Business Insights
+
+Visualizations:
+
+- Application Performance Table
+- Positive Reviews by Application
+- Negative Reviews by Application
+
+Insights Included:
+
+- Highest trust score application
+- Lowest trust score application
+- Review sentiment trends
+- Trust score observations
+
+Purpose:
+
+Provide management-level insights using dashboard analytics.
+
+Status:
+Business insights dashboard completed successfully.
