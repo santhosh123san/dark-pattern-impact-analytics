@@ -1,0 +1,18 @@
+Dashboard Dataset Export
+
+Dataset Name:
+dashboard_dataset.csv
+
+Purpose:
+This dataset serves as the primary source for dashboard development.
+
+Metrics Included:
+
+- Average Rating
+- Total Reviews
+- Negative Reviews
+- Positive Reviews
+- Trust Score
+
+Status:
+Exported Successfully
