@@ -1,0 +1,47 @@
+Power BI Dashboard Setup
+
+Week:
+Week 3 Day 2
+
+Dataset Imported:
+dashboard_dataset.csv
+
+Dataset Verification:
+- Rows: 6
+- Columns: 6
+
+Fields Imported:
+- app_id
+- avg_rating
+- total_reviews
+- negative_reviews
+- positive_reviews
+- trust_score
+
+Visualizations Created:
+
+KPI Cards:
+- Average Rating
+- Total Reviews
+- Positive Reviews
+- Negative Reviews
+- Average Trust Score
+
+Charts:
+- Trust Score by Application
+- Average Rating by Application
+
+Dashboard Features:
+- KPI Monitoring
+- Application Comparison
+- Trust Score Analysis
+- Rating Analysis
+
+Files Generated:
+- week3_day2_dashboard.pbix
+- powerbi_setup.txt
+- week3_day2_dashboard_overview.png
+- week3_day2_dashboard_cards.png
+
+Status:
+Power BI dashboard setup completed successfully and ready for further dashboard enhancements.
