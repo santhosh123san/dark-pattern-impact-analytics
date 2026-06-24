@@ -1,0 +1,26 @@
+Rating Distribution Analysis
+
+Rating 1:
+133 Reviews
+
+Rating 2:
+17 Reviews
+
+Rating 3:
+25 Reviews
+
+Rating 4:
+54 Reviews
+
+Rating 5:
+371 Reviews
+
+Observation:
+Most reviews are rated 5 stars, indicating strong overall user satisfaction.
+
+The number of low-rated reviews is significantly lower than high-rated reviews.
+
+Users generally have a positive perception of the applications.
+
+Business Impact:
+Applications are receiving predominantly positive feedback, which contributes to higher trust scores and user confidence.

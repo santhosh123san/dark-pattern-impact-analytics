@@ -1,0 +1,17 @@
+Trust Score Comparison
+
+Top 3 Applications:
+1. app_id 6
+2. app_id 2
+3. app_id 3
+
+Bottom 3 Applications:
+1. app_id 5
+2. app_id 4
+3. app_id 1
+
+Highest Trust Score:
+app_id 6
+
+Lowest Trust Score:
+app_id 1
