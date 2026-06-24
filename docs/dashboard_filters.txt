@@ -1,0 +1,41 @@
+Dashboard Filters and Enhancements
+
+Week:
+Week 3 Day 3
+
+Enhancements Added:
+
+- Application Filter (Slicer)
+- Positive Review Distribution Pie Chart
+- Negative Review Distribution Pie Chart
+
+Filter Testing:
+
+- App 1 selected successfully
+- App 6 selected successfully
+- Dashboard visuals updated correctly
+
+Visualizations Available:
+
+- KPI Cards
+- Trust Score by Application
+- Average Rating by Application
+- Positive Review Distribution
+- Negative Review Distribution
+
+Benefits:
+
+- Interactive application analysis
+- Dynamic KPI updates
+- Improved dashboard usability
+- Better review sentiment visualization
+
+Files Generated:
+
+- week3_day3_dashboard.pbix
+- dashboard_filters.txt
+- week3_day3_dashboard_filters.png
+- week3_day3_dashboard_complete.png
+
+Status:
+Dashboard enhancement completed successfully.
