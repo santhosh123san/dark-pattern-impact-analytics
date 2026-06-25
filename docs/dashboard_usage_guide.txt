@@ -1,0 +1,16 @@
+Dashboard Usage Guide
+
+1. Open Power BI dashboard file.
+2. Use the application slicer to filter data.
+3. Review KPI cards for summary metrics.
+4. Analyze trust score and rating charts.
+5. View review distribution pie charts.
+6. Navigate to Business Insights page.
+7. Review performance table and insights.
+
+Purpose:
+
+Provide a simple guide for dashboard users.
+
+Status:
+Dashboard usage guide completed successfully.
