@@ -1,0 +1,26 @@
+Week 7 Files Created
+
+Architecture:
+- project_architecture_summary.txt
+- system_architecture_explanation.txt
+- week7_day4_learnings.txt
+
+Viva:
+- viva_questions_answers.txt
+- week7_day2_learnings.txt
+
+Workflow:
+- project_workflow_documentation.txt
+- week7_day3_learnings.txt
+
+Dashboard:
+- dashboard_viva_notes.txt
+- week7_day5_learnings.txt
+
+Project Review:
+- project_strengths_limitations.txt
+- week7_day6_learnings.txt
+
+Reports:
+- Week7CompletionReport.docx
+- week7_files_created.txt
