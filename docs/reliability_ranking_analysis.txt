@@ -1,0 +1,54 @@
+Reliability Ranking Analysis
+
+Week:
+Week 5 Day 4
+
+Objective:
+
+Rank applications based on reliability performance.
+
+Results:
+
+Rank 1:
+- App 6
+- Trust Score: 107.80
+- Reliability: Excellent
+
+Rank 2:
+- App 2
+- Trust Score: 83.20
+- Reliability: Good
+
+Rank 3:
+- App 3
+- Trust Score: 81.50
+- Reliability: Good
+
+Rank 4:
+- App 5
+- Trust Score: 79.20
+- Reliability: Average
+
+Rank 5:
+- App 4
+- Trust Score: 78.90
+- Reliability: Average
+
+Rank 6:
+- App 1
+- Trust Score: 42.00
+- Reliability: Poor
+
+Observations:
+
+- App 6 remains the highest-performing application.
+- Apps 2 and 3 are classified as Good reliability.
+- Apps 4 and 5 show Average reliability.
+- App 1 remains the lowest-performing application.
+
+Conclusion:
+
+Reliability ranking provides a clear comparison of application quality and performance levels.
+
+Status:
+Week 5 Day 4 completed successfully.
