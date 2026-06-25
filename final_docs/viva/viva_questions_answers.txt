@@ -1,0 +1,119 @@
+Viva Questions and Answers
+
+Q1. What is the title of your project?
+
+Answer:
+Dark Pattern Impact Analytics
+
+--------------------------------------------------
+
+Q2. What is the objective of this project?
+
+Answer:
+To analyze application trustworthiness and identify potential dark pattern impacts using trust scores, risk analysis and business intelligence techniques.
+
+--------------------------------------------------
+
+Q3. Why did you choose this project?
+
+Answer:
+Dark patterns affect user trust and decision-making. This project helps evaluate application reliability and transparency.
+
+--------------------------------------------------
+
+Q4. Which technologies were used?
+
+Answer:
+- PostgreSQL
+- SQL
+- Power BI
+- Microsoft Word
+- GitHub
+
+--------------------------------------------------
+
+Q5. What datasets were used?
+
+Answer:
+- Applications Dataset
+- Reviews Dataset
+- Dark Patterns Dataset
+- Trust Scores Dataset
+
+--------------------------------------------------
+
+Q6. What is a Dark Pattern?
+
+Answer:
+A Dark Pattern is a deceptive UI/UX design practice that manipulates users into making unintended decisions.
+
+--------------------------------------------------
+
+Q7. What are examples of Dark Patterns?
+
+Answer:
+- Hidden Costs
+- Forced Continuity
+- Confirm Shaming
+- Privacy Zuckering
+- Roach Motel
+- Bait and Switch
+
+--------------------------------------------------
+
+Q8. How many applications were analyzed?
+
+Answer:
+6 Applications
+
+--------------------------------------------------
+
+Q9. How many reviews were analyzed?
+
+Answer:
+600 Reviews
+
+--------------------------------------------------
+
+Q10. What is the highest trust score?
+
+Answer:
+107.80
+
+--------------------------------------------------
+
+Q11. What is the lowest trust score?
+
+Answer:
+42.00
+
+--------------------------------------------------
+
+Q12. What is Risk Classification?
+
+Answer:
+A method used to categorize applications into Low Risk, Medium Risk and High Risk groups based on trust scores.
+
+--------------------------------------------------
+
+Q13. Why was Power BI used?
+
+Answer:
+To create dashboards and visualize analytical insights interactively.
+
+--------------------------------------------------
+
+Q14. What are the benefits of this project?
+
+Answer:
+- Improves transparency
+- Supports decision making
+- Identifies trust issues
+- Provides business recommendations
+
+--------------------------------------------------
+
+Q15. What was your role in the project?
+
+Answer:
+Database design, SQL analytics, trust score analysis, dashboard development, reporting and documentation.
