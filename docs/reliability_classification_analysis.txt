@@ -1,0 +1,50 @@
+Reliability Classification Analysis
+
+Week:
+Week 5 Day 1
+
+Objective:
+
+Classify applications based on reliability using trust scores.
+
+Classification Results:
+
+Excellent:
+
+- App 6
+- Trust Score: 107.80
+
+Good:
+
+- App 2
+- Trust Score: 83.20
+
+- App 3
+- Trust Score: 81.50
+
+Average:
+
+- App 5
+- Trust Score: 79.20
+
+- App 4
+- Trust Score: 78.90
+
+Poor:
+
+- App 1
+- Trust Score: 42.00
+
+Observations:
+
+- App 6 achieved Excellent reliability.
+- Apps 2 and 3 achieved Good reliability.
+- Apps 4 and 5 fall under Average reliability.
+- App 1 is classified as Poor reliability.
+
+Conclusion:
+
+Reliability classification provides an alternative perspective to risk analysis and helps identify application quality levels.
+
+Status:
+Week 5 Day 1 completed successfully.
