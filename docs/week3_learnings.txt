@@ -1,0 +1,23 @@
+Week 3 Learnings
+
+Skills Practiced:
+
+- Power BI dashboard development
+- KPI card creation
+- Chart creation
+- Pie chart visualization
+- Interactive slicers
+- Business insights reporting
+- Dashboard styling
+- Dashboard documentation
+
+Key Outcomes:
+
+- Built a multi-page dashboard
+- Created interactive analytics views
+- Improved data visualization skills
+- Learned dashboard presentation techniques
+
+Status:
+
+Week 3 learning objectives achieved successfully.
