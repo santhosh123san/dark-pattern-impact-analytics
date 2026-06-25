@@ -1,0 +1,71 @@
+Project Architecture Summary
+
+Week:
+Week 7 Day 1
+
+Objective:
+
+Document the complete architecture of the Dark Pattern Impact Analytics project.
+
+Dataset Overview:
+
+Applications:
+6 records
+
+Reviews:
+600 records
+
+Dark Patterns:
+6 records
+
+Trust Scores:
+6 records
+
+Dark Pattern Categories:
+
+- Hidden Costs
+- Forced Continuity
+- Confirm Shaming
+- Privacy Zuckering
+- Roach Motel
+- Bait and Switch
+
+Architecture Flow:
+
+Applications Table
+        |
+        v
+Reviews Table
+        |
+        v
+Dark Patterns Table
+        |
+        v
+Trust Score Calculation
+        |
+        v
+Risk Classification
+        |
+        v
+Business Analytics
+        |
+        v
+Power BI Dashboard
+
+Components:
+
+1. Applications Dataset
+2. Reviews Dataset
+3. Dark Patterns Dataset
+4. Trust Score Analytics
+5. Risk Analysis
+6. Business Recommendation Engine
+7. Executive Reporting
+8. Power BI Visualization
+
+Conclusion:
+
+The project architecture integrates application information, review analysis, dark pattern categorization, trust scoring, risk assessment and business intelligence reporting.
+
+Status:
+Week 7 Day 1 completed successfully.
