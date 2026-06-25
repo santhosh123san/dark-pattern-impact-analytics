@@ -1,0 +1,7 @@
+Week 7 Day 4 Learnings
+
+- Reviewed system architecture.
+- Understood database layer interactions.
+- Revised trust score workflow.
+- Revised analytics and reporting pipeline.
+- Prepared architecture explanation for viva.

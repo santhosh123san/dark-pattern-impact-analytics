@@ -1,0 +1,123 @@
+System Architecture Explanation
+
+Project:
+Dark Pattern Impact Analytics
+
+System Components
+
+1. Applications Layer
+
+Purpose:
+Stores application information.
+
+Table:
+apps
+
+Fields:
+- app_id
+- app_name
+- category
+- platform
+- analysis_date
+
+--------------------------------------------------
+
+2. Reviews Layer
+
+Purpose:
+Stores application reviews.
+
+Table:
+reviews
+
+Fields:
+- review_id
+- app_id
+- review_text
+- sentiment
+
+--------------------------------------------------
+
+3. Dark Patterns Layer
+
+Purpose:
+Stores dark pattern categories.
+
+Table:
+darkpatterns
+
+Examples:
+- Hidden Costs
+- Forced Continuity
+- Confirm Shaming
+- Privacy Zuckering
+- Roach Motel
+- Bait and Switch
+
+--------------------------------------------------
+
+4. Trust Analytics Layer
+
+Purpose:
+Calculates trust scores.
+
+Table:
+trustscores
+
+Outputs:
+- Trust Score
+- Risk Level
+
+--------------------------------------------------
+
+5. Analytics Layer
+
+Purpose:
+Generate business insights.
+
+Outputs:
+- Risk Analysis
+- Reliability Analysis
+- Strategic Insights
+- Recommendations
+
+--------------------------------------------------
+
+6. Visualization Layer
+
+Tool:
+Power BI
+
+Outputs:
+- KPI Cards
+- Charts
+- Risk Visualizations
+- Trust Score Dashboards
+
+--------------------------------------------------
+
+Architecture Flow
+
+Apps
+  |
+  v
+Reviews
+  |
+  v
+Dark Patterns
+  |
+  v
+Trust Score Calculation
+  |
+  v
+Risk Classification
+  |
+  v
+Business Analytics
+  |
+  v
+Power BI Dashboard
+
+Conclusion
+
+The architecture converts raw application data into actionable business intelligence and trust analytics.
