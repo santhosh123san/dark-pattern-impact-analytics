@@ -1,0 +1,40 @@
+Reliability Percentage Analysis
+
+Week:
+Week 5 Day 3
+
+Objective:
+
+Calculate the percentage distribution of applications across reliability levels.
+
+Results:
+
+Excellent:
+- Applications: 1
+- Percentage: 16.67%
+
+Good:
+- Applications: 2
+- Percentage: 33.33%
+
+Average:
+- Applications: 2
+- Percentage: 33.33%
+
+Poor:
+- Applications: 1
+- Percentage: 16.67%
+
+Observations:
+
+- Good and Average reliability categories each represent one-third of the applications.
+- Excellent reliability applications account for 16.67%.
+- Poor reliability applications account for 16.67%.
+- Reliability distribution is balanced across categories.
+
+Conclusion:
+
+Reliability percentage analysis helps measure the quality distribution of applications and supports management reporting.
+
+Status:
+Week 5 Day 3 completed successfully.
