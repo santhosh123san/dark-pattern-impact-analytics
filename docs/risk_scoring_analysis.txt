@@ -1,0 +1,36 @@
+Risk Scoring Analysis
+
+Week:
+Week 4 Day 1
+
+Objective:
+
+Classify applications into risk categories using trust scores.
+
+Risk Categories:
+
+Low Risk:
+- App 6 (107.80)
+- App 2 (83.20)
+- App 3 (81.50)
+
+Medium Risk:
+- App 5 (79.20)
+- App 4 (78.90)
+
+High Risk:
+- App 1 (42.00)
+
+Observations:
+
+- App 6 is the most trusted application.
+- App 1 is classified as High Risk.
+- Most applications fall into Low or Medium Risk categories.
+- Risk level is derived from trust score performance.
+
+Conclusion:
+
+Risk scoring successfully classified all applications into meaningful trust categories.
+
+Status:
+Week 4 Day 1 completed successfully.
