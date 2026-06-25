@@ -1,0 +1,37 @@
+Trust Score Statistics Analysis
+
+Week:
+Week 4 Day 4
+
+Objective:
+
+Calculate overall trust score statistics for management reporting.
+
+Results:
+
+Average Trust Score:
+78.77
+
+Highest Trust Score:
+107.80
+
+Lowest Trust Score:
+42.00
+
+Trust Score Range:
+65.80
+
+Observations:
+
+- Average trust score is 78.77.
+- The highest trust score belongs to App 6.
+- The lowest trust score belongs to App 1.
+- The difference between highest and lowest trust scores is significant.
+- Most applications perform above the average trust threshold.
+
+Conclusion:
+
+Trust score statistics provide a high-level overview of application reliability and trustworthiness.
+
+Status:
+Week 4 Day 4 completed successfully.
