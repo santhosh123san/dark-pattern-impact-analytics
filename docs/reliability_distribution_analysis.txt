@@ -1,0 +1,36 @@
+Reliability Distribution Analysis
+
+Week:
+Week 5 Day 2
+
+Objective:
+
+Analyze the distribution of applications across reliability levels.
+
+Results:
+
+Excellent:
+- 1 application
+
+Good:
+- 2 applications
+
+Average:
+- 2 applications
+
+Poor:
+- 1 application
+
+Observations:
+
+- Good reliability applications form the largest group.
+- Average reliability applications are equally represented.
+- Only one application achieved Excellent reliability.
+- Only one application is classified as Poor.
+
+Conclusion:
+
+Reliability distribution provides a balanced view of application quality and helps identify improvement opportunities.
+
+Status:
+Week 5 Day 2 completed successfully.
