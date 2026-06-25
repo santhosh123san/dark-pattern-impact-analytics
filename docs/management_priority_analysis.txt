@@ -1,0 +1,54 @@
+Management Priority Analysis
+
+Week:
+Week 6 Day 2
+
+Objective:
+
+Assign management priorities based on risk levels.
+
+Results:
+
+Priority 1:
+
+- App 1
+- Trust Score: 42.00
+- Risk Level: High Risk
+
+Priority 2:
+
+- App 4
+- Trust Score: 78.90
+- Risk Level: Medium Risk
+
+- App 5
+- Trust Score: 79.20
+- Risk Level: Medium Risk
+
+Priority 3:
+
+- App 2
+- Trust Score: 83.20
+- Risk Level: Low Risk
+
+- App 3
+- Trust Score: 81.50
+- Risk Level: Low Risk
+
+- App 6
+- Trust Score: 107.80
+- Risk Level: Low Risk
+
+Observations:
+
+- App 1 requires immediate management attention.
+- Apps 4 and 5 should be monitored.
+- Apps 2, 3 and 6 require routine maintenance.
+- Priority classification helps resource allocation.
+
+Conclusion:
+
+Management priorities provide a structured approach for addressing application risks.
+
+Status:
+Week 6 Day 2 completed successfully.
