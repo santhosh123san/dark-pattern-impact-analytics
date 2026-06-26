@@ -1,0 +1,38 @@
+Top vs Bottom Application Comparison
+
+Week:
+Week 4 Day 6
+
+Objective:
+
+Compare the highest and lowest performing applications using trust scores.
+
+Results:
+
+Top Application:
+
+- App ID: 6
+- Trust Score: 107.80
+
+Bottom Application:
+
+- App ID: 1
+- Trust Score: 42.00
+
+Difference:
+
+- Trust Score Difference: 65.80
+
+Observations:
+
+- App 6 is the most trusted application.
+- App 1 is the least trusted application.
+- The trust score gap between the top and bottom applications is significant.
+- App 6 demonstrates strong user trust and positive review performance.
+
+Conclusion:
+
+Comparing the highest and lowest performing applications helps identify best practices and improvement opportunities.
+
+Status:
+Week 4 Day 6 completed successfully.

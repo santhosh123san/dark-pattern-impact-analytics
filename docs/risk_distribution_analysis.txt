@@ -1,0 +1,33 @@
+Risk Distribution Analysis
+
+Week:
+Week 4 Day 2
+
+Objective:
+
+Analyze the distribution of applications across risk categories.
+
+Results:
+
+Low Risk Applications:
+- 3
+
+Medium Risk Applications:
+- 2
+
+High Risk Applications:
+- 1
+
+Observations:
+
+- Most applications are classified as Low Risk.
+- Only one application falls into the High Risk category.
+- Risk levels are distributed across all categories.
+- Low Risk applications dominate the dataset.
+
+Conclusion:
+
+Risk distribution analysis indicates that the majority of applications maintain acceptable trust levels, while one application requires attention due to its High Risk classification.
+
+Status:
+Week 4 Day 2 completed successfully.

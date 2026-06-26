@@ -1,0 +1,20 @@
+Week 4 Files Created
+
+SQL Files:
+- week4_day1_risk_scoring.sql
+- week4_day2_risk_distribution.sql
+- week4_day3_trust_ranking.sql
+- week4_day4_trust_statistics.sql
+- week4_day5_risk_percentage.sql
+- week4_day6_top_bottom_comparison.sql
+
+Documentation Files:
+- risk_scoring_analysis.txt
+- risk_distribution_analysis.txt
+- trust_ranking_analysis.txt
+- trust_statistics_analysis.txt
+- risk_percentage_analysis.txt
+- top_bottom_comparison.txt
+- week4_learnings.txt
+- week4_files_created.txt
+- week4_completion_report.docx

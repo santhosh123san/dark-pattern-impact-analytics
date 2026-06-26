@@ -1,0 +1,37 @@
+Reliability Statistics Analysis
+
+Week:
+Week 5 Day 5
+
+Objective:
+
+Calculate reliability statistics for application trust scores.
+
+Results:
+
+Average Score:
+78.77
+
+Highest Score:
+107.80
+
+Lowest Score:
+42.00
+
+Standard Deviation:
+21.08
+
+Observations:
+
+- The average trust score is 78.77.
+- The highest score is 107.80.
+- The lowest score is 42.00.
+- The standard deviation of 21.08 indicates moderate variation among applications.
+- Application performance is not uniform across all trust levels.
+
+Conclusion:
+
+Reliability statistics help measure overall application quality and score variability.
+
+Status:
+Week 5 Day 5 completed successfully.

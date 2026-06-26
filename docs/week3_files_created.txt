@@ -1,0 +1,34 @@
+Week 3 Files Created
+
+Data Files:
+- dashboard_dataset.csv
+
+Dashboard Files:
+- week3_day2_dashboard.pbix
+- week3_day3_dashboard.pbix
+- week3_day4_dashboard.pbix
+- week3_day5_dashboard.pbix
+- week3_day6_dashboard.pbix
+
+Documentation Files:
+- powerbi_setup.txt
+- dashboard_filters.txt
+- business_insights_dashboard.txt
+- dashboard_styling.txt
+- dashboard_features.txt
+- dashboard_usage_guide.txt
+- week3_completion_report.txt
+- week3_learnings.txt
+- week3_files_created.txt
+
+Screenshot Files:
+- week3_day2_dashboard_overview.png
+- week3_day2_dashboard_cards.png
+- week3_day3_dashboard_filters.png
+- week3_day3_dashboard_complete.png
+- week3_day4_business_insights.png
+- week3_day4_performance_table.png
+- week3_day5_main_dashboard.png
+- week3_day5_business_dashboard.png
+- week3_day6_dashboard_page1.png
+- week3_day6_dashboard_page2.png

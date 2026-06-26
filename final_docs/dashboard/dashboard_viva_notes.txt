@@ -1,0 +1,31 @@
+Dashboard Viva Notes
+
+1. Why Power BI was used?
+- To create interactive visualizations.
+- To simplify analytical insights.
+
+2. What are KPI Cards?
+- Visual indicators showing important metrics.
+
+3. Which KPIs were used?
+- Average Trust Score
+- Highest Trust Score
+- Lowest Trust Score
+- Total Applications
+
+4. Why trust score visualization is important?
+- Helps compare application reliability.
+
+5. Why risk visualization is important?
+- Helps identify high-risk applications quickly.
+
+6. What business value does the dashboard provide?
+- Supports decision making.
+- Highlights trust issues.
+- Improves transparency.
+
+7. Who can use this dashboard?
+- Business Managers
+- Analysts
+- Product Teams
+- Stakeholders

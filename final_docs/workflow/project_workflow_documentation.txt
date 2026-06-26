@@ -1,0 +1,76 @@
+Project Workflow Documentation
+
+Project:
+Dark Pattern Impact Analytics
+
+Workflow Overview
+
+Phase 1: Data Collection
+
+- Applications Dataset Created
+- Reviews Dataset Created
+- Dark Patterns Dataset Created
+
+↓
+
+Phase 2: Database Design
+
+- PostgreSQL Database Setup
+- Table Creation
+- Data Loading
+
+↓
+
+Phase 3: Data Processing
+
+- Review Analysis
+- Trust Score Calculation
+- Data Validation
+
+↓
+
+Phase 4: Risk Analysis
+
+- Risk Classification
+- Reliability Analysis
+- Performance Evaluation
+
+↓
+
+Phase 5: Business Analytics
+
+- Business Recommendations
+- Management Priorities
+- Executive Summary
+- Strategic Insights
+
+↓
+
+Phase 6: Dashboard Development
+
+- Power BI Dashboard
+- KPI Cards
+- Risk Visualizations
+- Trust Score Visualizations
+
+↓
+
+Phase 7: Documentation
+
+- Weekly Reports
+- Architecture Documentation
+- Viva Preparation
+- Workflow Documentation
+
+↓
+
+Phase 8: Final Submission
+
+- Final Report
+- PPT
+- Viva Preparation
+- GitHub Repository
+
+Project Outcome
+
+The project successfully transforms raw application and review data into trust analytics, risk assessments and business intelligence insights.

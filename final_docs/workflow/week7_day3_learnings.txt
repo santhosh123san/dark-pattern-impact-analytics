@@ -1,0 +1,7 @@
+Week 7 Day 3 Learnings
+
+- Reviewed complete project workflow.
+- Understood data flow from collection to reporting.
+- Revised database and analytics stages.
+- Revised dashboard creation process.
+- Prepared workflow explanation for viva.

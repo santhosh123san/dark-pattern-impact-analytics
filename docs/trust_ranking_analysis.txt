@@ -1,0 +1,48 @@
+Trust Score Ranking Analysis
+
+Week:
+Week 4 Day 3
+
+Objective:
+
+Rank applications based on trust score performance.
+
+Ranking Results:
+
+Rank 1:
+- App 6
+- Trust Score: 107.80
+
+Rank 2:
+- App 2
+- Trust Score: 83.20
+
+Rank 3:
+- App 3
+- Trust Score: 81.50
+
+Rank 4:
+- App 5
+- Trust Score: 79.20
+
+Rank 5:
+- App 4
+- Trust Score: 78.90
+
+Rank 6:
+- App 1
+- Trust Score: 42.00
+
+Observations:
+
+- App 6 achieved the highest trust score.
+- App 1 recorded the lowest trust score.
+- The top three applications are classified as Low Risk.
+- Trust score ranking helps identify the most reliable applications.
+
+Conclusion:
+
+Trust score ranking successfully identifies application performance and reliability levels.
+
+Status:
+Week 4 Day 3 completed successfully.

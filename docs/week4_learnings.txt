@@ -1,0 +1,21 @@
+Week 4 Learnings
+
+Skills Practiced:
+
+- Risk scoring
+- Risk classification
+- SQL ranking functions
+- Statistical analysis
+- Comparative analysis
+- Business reporting
+
+Key Outcomes:
+
+- Learned application risk assessment
+- Applied ranking techniques
+- Performed trust score statistics
+- Generated management-level insights
+
+Status:
+
+Week 4 learning objectives achieved successfully.

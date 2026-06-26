@@ -1,0 +1,57 @@
+Project Strengths and Limitations
+
+Project:
+Dark Pattern Impact Analytics
+
+Project Strengths
+
+1. Structured Database Design
+- Well-organized relational database.
+
+2. Trust Score Analytics
+- Quantifies application reliability.
+
+3. Risk Classification
+- Easy identification of high-risk applications.
+
+4. Business Intelligence Reporting
+- Supports management decisions.
+
+5. Power BI Dashboard
+- Interactive visualizations.
+
+6. Documentation Quality
+- Detailed weekly reports and analysis.
+
+--------------------------------------------------
+
+Project Limitations
+
+1. Limited Application Dataset
+- Only six applications analyzed.
+
+2. Limited Review Dataset
+- Dataset size can be expanded.
+
+3. Static Dark Pattern Dataset
+- Dark patterns are manually maintained.
+
+4. No Real-Time Data Collection
+- Data is not automatically updated.
+
+5. No Machine Learning Integration
+- Trust scores are rule-based.
+
+--------------------------------------------------
+
+Future Improvements
+
+- Increase application coverage.
+- Add real-time review collection.
+- Integrate machine learning models.
+- Automate dark pattern detection.
+- Deploy dashboard online.
+
+Conclusion
+
+The project successfully demonstrates trust analytics and business intelligence while providing opportunities for future enhancement.

@@ -1,0 +1,7 @@
+Week 7 Day 5 Learnings
+
+- Reviewed dashboard components.
+- Revised KPI explanations.
+- Revised trust score visualizations.
+- Prepared dashboard viva notes.
+- Improved dashboard presentation readiness.
