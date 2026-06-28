@@ -1,0 +1,154 @@
+Final Submission Checklist
+
+Project:
+Dark Pattern Impact Analytics & Trust Score System
+
+====================================================
+
+DATABASE
+
+☑ PostgreSQL Database Created
+
+☑ Apps Table
+
+☑ Reviews Table
+
+☑ Dark Patterns Table
+
+☑ Trust Scores Table
+
+====================================================
+
+SQL
+
+☑ Database Creation Scripts
+
+☑ Data Analysis Queries
+
+☑ Trust Score Queries
+
+☑ Risk Classification Queries
+
+☑ Business Analytics Queries
+
+☑ Strategic Analysis Queries
+
+====================================================
+
+DOCUMENTATION
+
+☑ Week 1 Reports
+
+☑ Week 2 Reports
+
+☑ Week 3 Reports
+
+☑ Week 4 Reports
+
+☑ Week 5 Reports
+
+☑ Week 6 Reports
+
+☑ Week 7 Reports
+
+☑ Week 8 Reports
+
+====================================================
+
+FINAL DOCUMENTATION
+
+☑ Architecture Documentation
+
+☑ Workflow Documentation
+
+☑ Dashboard Documentation
+
+☑ Viva Documentation
+
+☑ Project Review Documentation
+
+☑ GitHub Repository Guide
+
+☑ Final Project Summary
+
+☑ Final Viva Notes
+
+====================================================
+
+POWER BI
+
+☑ Dashboard (.pbix)
+
+☑ KPI Cards
+
+☑ Charts
+
+☑ Business Insights
+
+====================================================
+
+SCREENSHOTS
+
+☑ Dashboard Screenshots
+
+☑ Architecture Diagram
+
+☑ Workflow Diagram
+
+☑ Final Dashboard
+
+====================================================
+
+PRESENTATION
+
+☑ Final PPT
+
+====================================================
+
+REPORTS
+
+☑ Week5CompletionReport.docx
+
+☑ Week6CompletionReport.docx
+
+☑ Week7CompletionReport.docx
+
+☑ Week8CompletionReport.docx
+
+====================================================
+
+FILES CREATED LISTS
+
+☑ Week 5
+
+☑ Week 6
+
+☑ Week 7
+
+☑ Week 8
+
+====================================================
+
+VERSION CONTROL
+
+☑ Git Repository Updated
+
+☑ Final Commit Completed
+
+====================================================
+
+FINAL STATUS
+
+Project Ready for:
+
+☑ Viva
+
+☑ Demonstration
+
+☑ GitHub Review
+
+☑ Final Submission
+
+Submission Status:
+
+READY
