@@ -1,0 +1,111 @@
+Master Project File Index
+
+Project:
+Dark Pattern Impact Analytics & Trust Score System
+
+====================================================
+
+1. SQL Files
+
+Location:
+sql/
+
+Contains:
+- Database creation scripts
+- Data analysis queries
+- Trust score calculations
+- Risk classification
+- Business analytics
+- Strategic insights
+
+====================================================
+
+2. Documentation
+
+Location:
+docs/
+
+Contains:
+- Weekly reports
+- Analysis reports
+- Learning documents
+- Completion reports
+
+====================================================
+
+3. Final Documentation
+
+Location:
+final_docs/
+
+Contains:
+
+Architecture
+- Project Architecture
+- System Architecture
+
+Workflow
+- Project Workflow Documentation
+
+Viva
+- Viva Questions
+- Revision Notes
+
+Dashboard
+- Dashboard Explanation
+- Dashboard Viva Notes
+
+Project Review
+- Strengths & Limitations
+
+Final Submission
+- Master Project File Index
+- Final Project Summary
+- GitHub Guide
+- Final Viva Notes
+- Submission Checklist
+- Final Delivery Summary
+
+====================================================
+
+4. Dashboard Files
+
+Contains:
+- Power BI Dashboard (.pbix)
+- Dashboard screenshots
+
+====================================================
+
+5. Screenshots
+
+Contains:
+- Executive Dashboard
+- Trend Analysis
+- Architecture
+- Workflow
+- Final Dashboard
+
+====================================================
+
+6. Reports
+
+Contains:
+- Week1–Week8 Reports
+- Completion Reports
+
+====================================================
+
+Project Status
+
+Weeks Completed:
+Week 1
+Week 2
+Week 3
+Week 4
+Week 5
+Week 6
+Week 7
+Week 8
+
+Project Status:
+Completed

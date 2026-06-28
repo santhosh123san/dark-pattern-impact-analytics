@@ -1,0 +1,7 @@
+Week 8 Day 1 Learnings
+
+- Organized the complete project structure.
+- Reviewed all project folders.
+- Prepared the master file index.
+- Improved project organization.
+- Prepared for final submission.
