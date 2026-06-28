@@ -1,0 +1,7 @@
+Week 8 Day 4 Learnings
+
+- Revised complete project overview.
+- Reviewed important SQL concepts.
+- Revised trust score methodology.
+- Revised dashboard components.
+- Prepared final viva revision notes.

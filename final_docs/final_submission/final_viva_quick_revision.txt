@@ -1,0 +1,130 @@
+Final Viva Quick Revision Notes
+
+Project:
+Dark Pattern Impact Analytics & Trust Score System
+
+====================================================
+
+PROJECT TITLE
+
+Dark Pattern Impact Analytics & Trust Score System
+
+====================================================
+
+PROJECT OBJECTIVE
+
+- Analyze application trustworthiness.
+- Detect trust-related risks.
+- Generate business insights.
+- Visualize results using Power BI.
+
+====================================================
+
+TECHNOLOGIES
+
+- PostgreSQL
+- SQL
+- Power BI
+- GitHub
+- Microsoft Word
+
+====================================================
+
+DATABASE TABLES
+
+1. apps
+2. reviews
+3. darkpatterns
+4. trustscores
+
+====================================================
+
+DATASET
+
+Applications : 6
+Reviews : 600
+Dark Patterns : 6
+Trust Scores : 6
+
+====================================================
+
+DARK PATTERN EXAMPLES
+
+- Hidden Costs
+- Forced Continuity
+- Confirm Shaming
+- Privacy Zuckering
+- Roach Motel
+- Bait and Switch
+
+====================================================
+
+TRUST SCORE
+
+Highest:
+107.80
+
+Lowest:
+42.00
+
+Average:
+78.77
+
+====================================================
+
+RISK LEVELS
+
+Low Risk
+
+Medium Risk
+
+High Risk
+
+====================================================
+
+POWER BI DASHBOARD
+
+Contains:
+
+- KPI Cards
+- Trust Score Analysis
+- Risk Distribution
+- Ranking Analysis
+- Business Insights
+
+====================================================
+
+MOST IMPORTANT SQL OPERATIONS
+
+- SELECT
+- COUNT()
+- AVG()
+- CASE
+- GROUP BY
+- ORDER BY
+- UNION ALL
+- ROUND()
+
+====================================================
+
+PROJECT STRENGTHS
+
+- Structured database
+- Business analytics
+- Dashboard visualization
+- Comprehensive documentation
+
+====================================================
+
+FUTURE ENHANCEMENTS
+
+- Real-time data
+- Machine Learning
+- Automated Dark Pattern Detection
+- Online Deployment
+
+====================================================
+
+ONE-LINE PROJECT SUMMARY
+
+The project evaluates application trust using SQL analytics, risk classification, and Power BI dashboards to support business decision-making.
