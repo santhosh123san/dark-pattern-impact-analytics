@@ -1,0 +1,86 @@
+GitHub Repository Guide
+
+Project:
+Dark Pattern Impact Analytics & Trust Score System
+
+====================================================
+
+Repository Structure
+
+DarkPatternImpactAnalytics/
+
+├── sql/
+│   ├── Database creation scripts
+│   ├── Analytics queries
+│   ├── Trust score calculations
+│   └── Risk analysis
+
+├── docs/
+│   ├── Weekly reports
+│   ├── Analysis reports
+│   ├── Completion reports
+│   └── Files created lists
+
+├── final_docs/
+│   ├── architecture/
+│   ├── workflow/
+│   ├── dashboard/
+│   ├── viva/
+│   ├── project_review/
+│   └── final_submission/
+
+├── screenshots/
+
+├── dashboards/
+
+====================================================
+
+Software Requirements
+
+- PostgreSQL
+- pgAdmin
+- Power BI Desktop
+- Microsoft Word
+- Git
+
+====================================================
+
+Project Setup
+
+1. Install PostgreSQL.
+2. Restore or create the project database.
+3. Execute SQL scripts in the sql folder.
+4. Verify tables and data.
+5. Open the Power BI dashboard.
+6. Review documentation in docs and final_docs.
+
+====================================================
+
+Database Tables
+
+- apps
+- reviews
+- darkpatterns
+- trustscores
+
+====================================================
+
+Dashboard
+
+The Power BI dashboard includes:
+
+- KPI Cards
+- Trust Score Analysis
+- Risk Distribution
+- Ranking Analysis
+- Business Insights
+
+====================================================
+
+Project Purpose
+
+The repository demonstrates trust score analytics, dark pattern awareness, risk classification, business intelligence, and dashboard reporting.
+
+====================================================
+
+End of Guide

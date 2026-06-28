@@ -1,0 +1,7 @@
+Week 8 Day 3 Learnings
+
+- Documented repository structure.
+- Reviewed project setup process.
+- Documented software requirements.
+- Reviewed database architecture.
+- Prepared GitHub repository guide for project reviewers.
